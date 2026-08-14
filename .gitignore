@@ -1,0 +1,11 @@
+build/
+dist/
+JUCE/
+cmake/
+*.zip
+*.pkg
+.DS_Store
+Resources/IRs/*.wav
+Resources/IRs/*.aif
+Resources/IRs/*.aiff
+Resources/IRs/*.flac
